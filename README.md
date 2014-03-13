@@ -1,4 +1,4 @@
 Practices-LP2
 =============
 
-C++ Cod
+C + + code for LP2 in the Complutense University
